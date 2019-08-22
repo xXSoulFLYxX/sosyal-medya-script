@@ -62,23 +62,7 @@ banner_instagram(){
 read -p $'\e[31m[\e[32m!\e[31m]\e[37mİşlem Numarası : ' islem_instagram
 }
 
-banner_instagram_brute(){
 
-	clear
-	echo -e "\033[31;40;1m
-
-		   \e[36m      İnstagram-BruteForce
-		   \e[32m*******************************
-			
-		   \e[31m[\e[32m01\e[31m]\e[37mWordlist Oluştur
-		   \e[31m[\e[32m02\e[31m]\e[37mAtağı Başlat
-
-
-	 	   \e[31m[\e[32m99\e[31m]\e[37mBir Önceki Ana Menü
-
-			"
-read -p $'\e[31m[\e[32m!\e[31m]\e[37mİşlem Numarası : ' islem_instagram_brute
-}
 
 
 banner_facebook(){
