@@ -24,7 +24,6 @@ banner_code(){
 			\e[31m[\e[32m09\e[31m]\e[37mSpofity          
 
 
-    \e[31m[\e[32m99\e[31m]\e[37mBir Önceki Ana Menü
 			"
 read -p $'\e[31m[\e[32m!\e[31m]\e[37mİşlem Numarası : ' islem_code
 }
