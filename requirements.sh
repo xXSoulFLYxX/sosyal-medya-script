@@ -19,5 +19,5 @@ mv -v ngrok /data/data/com.termux/files/usr/bin
 cd  Sites/instagram-bruteforce/ &&
 pip install -r requirements.txt
 python2 install.py install
-echo -e '\033[31;40;1m 			Kurulum Bitti!!!' &&cd /data/data/com.termux/files/home/Turk-Sploit-Demo/ && rm -rf requirements.sh
+echo -e '\033[31;40;1m 			
 sleep 1
