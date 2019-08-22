@@ -19,8 +19,7 @@ banner_sm(){
 
 		   \e[31m[\e[32m07\e[31m]\e[37mNetflix	        \e[31m[\e[32m08\e[31m]\e[37mBlu Tv
 
-		   \e[31m[\e[32m09\e[31m]\e[37mTikTok	        \e[31m[\e[32m10\e[31m]\e[37mTwitch		
-
+		   	        	
 		   \e[34m******************************* 
 
 		   \e[31m[\e[32m99\e[31m]\e[37mAna Menü
