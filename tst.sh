@@ -7,6 +7,9 @@ banner(){
         echo -e "\033[31;40;1m
 
                    \e[36m           Ahmet Keskin
+                   
+                   Bu toolun kullanımında meydana gelicek hiç bir şey sorumluluğumda değildir!
+                   Kişi yaptığı tüm işlerden kendisi sorumludur!
                    \e[32m*******************************
                         
 
