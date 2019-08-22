@@ -17,7 +17,7 @@ banner_sm(){
 
 		   \e[31m[\e[32m05\e[31m]\e[37mWhatsapp	        \e[31m[\e[32m06\e[31m]\e[37mSpofity
 
-		   \e[31m[\e[32m07\e[31m]\e[37mNetflix	        \e[31m[\e[32m08\e[31m]\e[37mBlu Tv
+		   \e[31m[\e[32m07\e[31m]\e[37mNetflix	        
 
 		   	        	
 		   \e[34m******************************* 
@@ -54,7 +54,6 @@ banner_instagram(){
 
 		   \e[31m[\e[32m01\e[31m]\e[37mİnstagram Login
 		   \e[31m[\e[32m02\e[31m]\e[37mİnstagram Panel
-		   \e[31m[\e[32m03\e[31m]\e[37mİnstagram-Brute
 
 
 	 	   \e[31m[\e[32m99\e[31m]\e[37mBir Önceki Menü
