@@ -8,7 +8,8 @@ banner(){
 
                    \e[36m           Ahmet Keskin
                    
-                   Bu toolun kullanımında meydana gelicek hiç bir şey sorumluluğumda değildir!
+                   Bu toolun kullanımında meydana gelicek hiç bir 
+                   şey sorumluluğumda değildir!
                    Kişi yaptığı tüm işlerden kendisi sorumludur!
                    \e[32m*******************************
                         
